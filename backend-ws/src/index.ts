@@ -13,5 +13,5 @@ wss.on('connection', ws => {
     })
   })
 
-  ws.send('Oi como vai querido(a)!?')
+  ws.send('Olá! Como você vai?')
 })
